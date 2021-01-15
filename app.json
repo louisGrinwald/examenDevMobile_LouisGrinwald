@@ -1,0 +1,12 @@
+{
+  "name": "examenDevMobile_LouisGrinwald",
+  "displayName": "examenDevMobile_LouisGrinwald",
+  "expo": {
+    "name": "examenDevMobile_LouisGrinwald",
+    "slug": "examenDevMobile_LouisGrinwald",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
