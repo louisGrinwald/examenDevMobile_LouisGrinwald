@@ -1,21 +1,20 @@
 ## Fonctionnalités réalisées
 
-* Affichage des personnes en tendance : 
-* Scroll permet de charger plus de résultats : 
-* Recherche de personnes :
-* Scroll permet de charger plus de résultats : 
-* Annuler la recherche affiche les personnes en tendance : 
-* Un clic redirige sur la page de la personne :
-* Affichage des informations générales d'une personne : 
-* Affichage des médias d'une personne : 
-* Possibilité de suivre une personne : 
-* Possibilité de ne plus suivre une personne : 
-* Affichage des personnes suivies :
-* Un clic redirige sur la page de la personne :
+* Affichage des personnes en tendance : oui
+* Scroll permet de charger plus de résultats : oui mais bug, end reach appelé 2 fois
+* Recherche de personnes : oui
+* Scroll permet de charger plus de résultats : oui mais pareil que les personnes en tendances
+* Annuler la recherche affiche les personnes en tendance : clique sur vider la liste
+* Un clic redirige sur la page de la personne : oui mais 404 pour les details, je me suis servi de bradpitt
+* Affichage des informations générales d'une personne : celle de ce bon vieux brad
+* Affichage des médias d'une personne : non
+* Possibilité de suivre une personne : oui
+* Possibilité de ne plus suivre une personne : oui
+* Affichage des personnes suivies : oui
+* Un clic redirige sur la page de la personne : oui encore de brad
 
 
 ## Remarques éventuelles
 
-Merci d'indiquer si vous avez fait l'exercice sur tablette, téléphone ou émulateur. 
-
+Projet réaliser sur téléphone
 Ajouter vos remarques ici si besoin
